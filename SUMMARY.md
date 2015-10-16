@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [三字经](san_zi_jing.md)
+* [三字经](sanzi_jing.md)
 
