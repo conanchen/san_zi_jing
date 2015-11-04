@@ -13,4 +13,5 @@
 * [香九龄     能温席     孝于亲     所当执](xiang_jiu_ling_neng_wen_xi_xiao_yu_qin_suo_dang_zhi.md)
 * [融四岁     能让梨     弟于长     宜先知](rong_si_sui_neng_rang_li_di_yu_chang_yi_xian_zhi.md)
 * [首孝悌     次见闻     知某数     识某文](shou_xiao_ti_ci_jian_wen_zhi_mou_shu_shi_mou_wen.md)
+* 一而十 	十而百 	百而千 	千而万
 
