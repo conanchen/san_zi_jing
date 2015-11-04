@@ -11,4 +11,5 @@
 * [玉不琢     不成器     人不学     不知义](yu_bu_zhuo_bu_cheng_qi_ren_bu_xue_bu_zhi_yi.md)
 * [为人子     方少时     亲师友     习礼仪](wei_ren_zi_fang_shao_shi_qin_shi_you_xi_li_yi.md)
 * [香九龄     能温席     孝于亲     所当执](xiang_jiu_ling_neng_wen_xi_xiao_yu_qin_suo_dang_zhi.md)
+* 融四岁 	能让梨 	弟于长 	宜先知
 
