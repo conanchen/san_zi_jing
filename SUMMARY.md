@@ -9,4 +9,5 @@
 * [养不教     父之过     教不严     师之惰](yang_bu_jiao_fu_zhi_guo_jiao_bu_yan_shi_zhi_duo.md)
 * [子不学     非所宜     幼不学     老何为](zi_bu_xue_fei_suo_yi_you_bu_xue_lao_he_wei.md)
 * [玉不琢     不成器     人不学     不知义](yu_bu_zhuo_bu_cheng_qi_ren_bu_xue_bu_zhi_yi.md)
+* 为人子 	方少时 	亲师友 	习礼仪
 
