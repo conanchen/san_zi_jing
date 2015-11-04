@@ -15,5 +15,5 @@
 * [首孝悌     次见闻     知某数     识某文](shou_xiao_ti_ci_jian_wen_zhi_mou_shu_shi_mou_wen.md)
 * [一而十     十而百     百而千     千而万](yi_er_shi_shi_er_bai_bai_er_qian_qian_er_wan.md)
 * [三才者     天地人     三光者     日月星](san_cai_zhe_tian_di_ren_san_guang_zhe_ri_yue_xing.md)
-* 三纲者 	君臣义 	父子亲 	夫妇顺
+* [三纲者     君臣义     父子亲     夫妇顺](san_gang_zhe_jun_chen_yi_fu_zi_qin_fu_fu_shun.md)
 
