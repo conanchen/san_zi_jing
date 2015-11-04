@@ -12,4 +12,5 @@
 * [为人子     方少时     亲师友     习礼仪](wei_ren_zi_fang_shao_shi_qin_shi_you_xi_li_yi.md)
 * [香九龄     能温席     孝于亲     所当执](xiang_jiu_ling_neng_wen_xi_xiao_yu_qin_suo_dang_zhi.md)
 * [融四岁     能让梨     弟于长     宜先知](rong_si_sui_neng_rang_li_di_yu_chang_yi_xian_zhi.md)
+* 首孝悌 	次见闻 	知某数 	识某文
 
