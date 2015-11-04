@@ -7,5 +7,5 @@
 * [昔孟母 择邻处 子不学 断机杼](xi_meng_mu_ze_lin_chu_zi_bu_xue_duan_ji_zhu.md)
 * [窦燕山 有义方 教五子 名俱扬](dou_yan_shan_you_yi_fang_jiao_wu_zi_ming_ju_yang.md)
 * [养不教     父之过     教不严     师之惰](yang_bu_jiao_fu_zhi_guo_jiao_bu_yan_shi_zhi_duo.md)
-* 子不学 	非所宜 	幼不学 	老何为
+* [子不学     非所宜     幼不学     老何为](zi_bu_xue_fei_suo_yi_you_bu_xue_lao_he_wei.md)
 
