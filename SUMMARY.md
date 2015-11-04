@@ -10,5 +10,5 @@
 * [子不学     非所宜     幼不学     老何为](zi_bu_xue_fei_suo_yi_you_bu_xue_lao_he_wei.md)
 * [玉不琢     不成器     人不学     不知义](yu_bu_zhuo_bu_cheng_qi_ren_bu_xue_bu_zhi_yi.md)
 * [为人子     方少时     亲师友     习礼仪](wei_ren_zi_fang_shao_shi_qin_shi_you_xi_li_yi.md)
-* 香九龄 	能温席 	孝于亲 	所当执
+* [香九龄     能温席     孝于亲     所当执](xiang_jiu_ling_neng_wen_xi_xiao_yu_qin_suo_dang_zhi.md)
 
