@@ -17,5 +17,5 @@
 * [三才者     天地人     三光者     日月星](san_cai_zhe_tian_di_ren_san_guang_zhe_ri_yue_xing.md)
 * [三纲者     君臣义     父子亲     夫妇顺](san_gang_zhe_jun_chen_yi_fu_zi_qin_fu_fu_shun.md)
 * [曰春夏     曰秋冬     此四时     运不穷](yue_chun_xia_yue_qiu_dong_ci_si_shi_yun_bu_qiong.md)
-* 曰南北 	曰西东 	此四方 	应乎中
+* [曰南北     曰西东     此四方     应乎中](yue_nan_bei_yue_xi_dong_ci_si_fang_ying_hu_zhong.md)
 
