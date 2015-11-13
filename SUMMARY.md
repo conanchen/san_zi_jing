@@ -114,4 +114,5 @@
 * [若梁灏     八十二     对大廷     魁多士](ruo_liang_hao_ba_shi_er_dui_da_ting_kui_duo_shi.md)
 * [彼既成     众称异     尔小生     宜立志](bi_ji_cheng_zhong_cheng_yi_er_xiao_sheng_yi_li_zhi.md)
 * [莹八岁     能咏诗     泌七岁     能赋棋](ying_ba_sui_neng_yong_shi_mi_qi_sui_neng_fu_qi.md)
+* 彼颖悟 	人称奇 	尔幼学 	当效之
 
