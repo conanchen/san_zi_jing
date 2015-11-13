@@ -105,5 +105,5 @@
 * [口而诵     心而惟     朝于斯     夕于斯](kou_er_song_xin_er_wei_zhao_yu_si_xi_yu_si.md)
 * [昔仲尼     师项橐     古圣贤     尚勤学](xi_zhong_ni_shi_xiang_tuo_gu_sheng_xian_shang_qin_xue.md)
 * [赵中令     读鲁论     彼既仕     学且勤](zhao_zhong_ling_du_lu_lun_bi_ji_shi_xue_qie_qin.md)
-* 披蒲编 	削竹简 	彼无书 	且知勉
+* [披蒲编     削竹简     彼无书     且知勉](pi_pu_bian_xue_zhu_jian_bi_wu_shu_qie_zhi_mian.md)
 
