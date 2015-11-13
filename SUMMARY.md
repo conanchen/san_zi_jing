@@ -37,4 +37,5 @@
 * [酸苦甘     及辛咸     此五味     口所含](suan_ku_gan_ji_xin_xian_ci_wu_wei_kou_suo_han.md)
 * [膻焦香     及腥朽     此五臭     鼻所嗅](dan_jiao_xiang_ji_xing_xiu_ci_wu_chou_bi_suo_xiu.md)
 * [匏土革     木石金     与丝竹     乃八音](pao_tu_ge_mu_shi_jin_yu_si_zhu_nai_ba_yin.md)
+* 曰平上 	曰去入 	此四声 	宜调协
 
