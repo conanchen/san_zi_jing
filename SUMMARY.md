@@ -30,5 +30,5 @@
 * [曰仁义     礼智信     此五常     不容紊](yue_ren_yi_li_zhi_xin_ci_wu_chang_bu_rong_wen.md)
 * [地所生     有草木     此植物     遍水陆](di_suo_sheng_you_cao_mu_ci_zhi_wu_bian_shui_lu.md)
 * [有虫鱼     有鸟兽     此动物     能飞走](you_chong_yu_you_niao_shou_ci_dong_wu_neng_fei_zou.md)
-* 稻梁菽 	麦黍稷 	此六谷 	人所食
+* [稻梁菽     麦黍稷     此六谷     人所食](dao_liang_shu_mai_shu_ji_ci_liu_gu_ren_suo_shi.md)
 
