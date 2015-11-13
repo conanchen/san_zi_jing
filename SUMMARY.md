@@ -96,4 +96,5 @@
 * [清世祖     膺景命     靖四方     克大定](qing_shi_zu_ying_jing_ming_jing_si_fang_ke_da_ding.md)
 * [由康雍     历乾嘉     民安富     治绩夸](you_kang_yong_li_gan_jia_min_an_fu_zhi_ji_kua.md)
 * [道咸间     变乱起     始英法     扰都鄙](dao_xian_jian_bian_luan_qi_shi_ying_fa_rao_du_bi.md)
+* 同光后 	宣统弱 	传九帝 	满清殁
 
