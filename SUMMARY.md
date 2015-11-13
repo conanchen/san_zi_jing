@@ -51,5 +51,5 @@
 * [凡训蒙     须讲究     详训诂     明句读](fan_xun_meng_xu_jiang_jiu_xiang_xun_gu_ming_ju_du.md)
 * [为学者     必有初     小学终     至四书](wei_xue_zhe_bi_you_chu_xiao_xue_zhong_zhi_si_shu.md)
 * [论语者     二十篇     群弟子     记善言](lun_yu_zhe_er_shi_pian_qun_di_zi_ji_shan_yan.md)
-* 孟子者 	七篇止 	讲道德 	说仁义
+* [孟子者     七篇止     讲道德     说仁义](meng_zi_zhe_qi_pian_zhi_jiang_dao_de_shuo_ren_yi.md)
 
