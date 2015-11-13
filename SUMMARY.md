@@ -62,5 +62,5 @@
 * [大小戴     注礼记     述圣言     礼乐备](da_xiao_dai_zhu_li_ji_shu_sheng_yan_li_le_bei.md)
 * [有国风     有雅颂     号四诗     当讽咏](you_guo_feng_you_ya_song_hao_si_shi_dang_feng_yong.md)
 * [诗既亡     春秋作     寓褒贬     别善恶](shi_ji_wang_chun_qiu_zuo_yu_bao_bian_bie_shan_e.md)
-* 三传者 	有公羊 	有左氏 	有谷梁
+* [三传者     有公羊     有左氏     有谷梁](san_chuan_zhe_you_gong_yang_you_zuo_shi_you_gu_liang.md)
 
