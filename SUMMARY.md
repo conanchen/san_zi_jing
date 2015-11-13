@@ -39,5 +39,5 @@
 * [匏土革     木石金     与丝竹     乃八音](pao_tu_ge_mu_shi_jin_yu_si_zhu_nai_ba_yin.md)
 * [曰平上     曰去入     此四声     宜调协](yue_ping_shang_yue_qu_ru_ci_si_sheng_yi_diao_xie.md)
 * [高曾祖     父而身     身而子     子而孙](gao_ceng_zu_fu_er_shen_shen_er_zi_zi_er_sun.md)
-* 自子孙 	至玄曾 	乃九族 	人之伦
+* [自子孙     至玄曾     乃九族     人之伦](zi_zi_sun_zhi_xuan_ceng_nai_jiu_zu_ren_zhi_lun.md)
 
