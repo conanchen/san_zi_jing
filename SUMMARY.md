@@ -95,4 +95,5 @@
 * [权阉肆     寇如林     李闯出     神器焚](quan_yan_si_kou_ru_lin_li_chuang_chu_shen_qi_fen.md)
 * [清世祖     膺景命     靖四方     克大定](qing_shi_zu_ying_jing_ming_jing_si_fang_ke_da_ding.md)
 * [由康雍     历乾嘉     民安富     治绩夸](you_kang_yong_li_gan_jia_min_an_fu_zhi_ji_kua.md)
+* 道咸间 	变乱起 	始英法 	扰都鄙
 
