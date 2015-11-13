@@ -107,5 +107,5 @@
 * [赵中令     读鲁论     彼既仕     学且勤](zhao_zhong_ling_du_lu_lun_bi_ji_shi_xue_qie_qin.md)
 * [披蒲编     削竹简     彼无书     且知勉](pi_pu_bian_xue_zhu_jian_bi_wu_shu_qie_zhi_mian.md)
 * [头悬梁     锥刺股     彼不教     自勤苦](tou_xuan_liang_zhui_ci_gu_bi_bu_jiao_zi_qin_ku.md)
-* 如囊萤 	如映雪 	家虽贫 	学不辍
+* [如囊萤     如映雪     家虽贫     学不辍](ru_nang_ying_ru_ying_xue_jia_sui_pin_xue_bu_chuo.md)
 
