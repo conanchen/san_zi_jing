@@ -43,4 +43,5 @@
 * [父子恩     夫妇从     兄则友     弟则恭](fu_zi_en_fu_fu_cong_xiong_ze_you_di_ze_gong.md)
 * [长幼序     友与朋     君则敬     臣则忠](chang_you_xu_you_yu_peng_jun_ze_jing_chen_ze_zhong.md)
 * [此十义     人所同     当师叙     勿违背](ci_shi_yi_ren_suo_tong_dang_shi_xu_wu_wei_bei.md)
+* 斩齐衰 	大小功 	至缌麻 	五服终
 
