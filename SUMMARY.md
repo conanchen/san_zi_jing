@@ -41,4 +41,5 @@
 * [高曾祖     父而身     身而子     子而孙](gao_ceng_zu_fu_er_shen_shen_er_zi_zi_er_sun.md)
 * [自子孙     至玄曾     乃九族     人之伦](zi_zi_sun_zhi_xuan_ceng_nai_jiu_zu_ren_zhi_lun.md)
 * [父子恩     夫妇从     兄则友     弟则恭](fu_zi_en_fu_fu_cong_xiong_ze_you_di_ze_gong.md)
+* 长幼序 	友与朋 	君则敬 	臣则忠
 
