@@ -84,5 +84,5 @@
 * [魏蜀吴     争汉鼎     号三国     迄两晋](wei_shu_wu_zheng_han_ding_hao_san_guo_qi_liang_jin.md)
 * [宋齐继     梁陈承     为南朝     都金陵](song_qi_ji_liang_chen_cheng_wei_nan_zhao_du_jin_ling.md)
 * [北元魏     分东西     宇文周     兴高齐](bei_yuan_wei_fen_dong_xi_yu_wen_zhou_xing_gao_qi.md)
-* 迨至隋 	一土宇 	不再传 	失统绪
+* [迨至隋     一土宇     不再传     失统绪](dai_zhi_sui_yi_tu_yu_bu_zai_chuan_shi_tong_xu.md)
 
