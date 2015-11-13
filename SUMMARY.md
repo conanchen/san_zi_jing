@@ -119,5 +119,5 @@
 * [彼女子     且聪敏     尔男子     当自警](bi_nv_zi_qie_cong_min_er_nan_zi_dang_zi_jing.md)
 * [唐刘晏     方七岁     举神童     作正字](tang_liu_yan_fang_qi_sui_ju_shen_tong_zuo_zheng_zi.md)
 * [彼虽幼     身已仕     有为者     亦若是](bi_sui_you_shen_yi_shi_you_wei_zhe_yi_ruo_shi.md)
-* 犬守夜 	鸡司晨 	苟不学 	曷为人
+* [犬守夜     鸡司晨     苟不学     曷为人](quan_shou_ye_ji_si_chen_gou_bu_xue_he_wei_ren.md)
 
