@@ -54,4 +54,5 @@
 * [孟子者     七篇止     讲道德     说仁义](meng_zi_zhe_qi_pian_zhi_jiang_dao_de_shuo_ren_yi.md)
 * [作中庸     乃孔伋     中不偏     庸不易](zuo_zhong_yong_nai_kong_ji_zhong_bu_pian_yong_bu_yi.md)
 * [作大学     乃曾子     自修齐     至平治](zuo_da_xue_nai_ceng_zi_zi_xiu_qi_zhi_ping_zhi.md)
+* 中书熟 	孝经通 	如六经 	始可读
 
