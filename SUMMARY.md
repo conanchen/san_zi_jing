@@ -35,4 +35,5 @@
 * [曰喜怒     曰哀惧     爱恶欲     七情俱](yue_xi_nu_yue_ai_ju_ai_e_yu_qi_qing_ju.md)
 * [青赤黄     及黑白     此五色     目所识](qing_chi_huang_ji_hei_bai_ci_wu_se_mu_suo_shi.md)
 * [酸苦甘     及辛咸     此五味     口所含](suan_ku_gan_ji_xin_xian_ci_wu_wei_kou_suo_han.md)
+* 膻焦香 	及腥朽 	此五臭 	鼻所嗅
 
