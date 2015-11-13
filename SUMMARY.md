@@ -33,4 +33,5 @@
 * [稻梁菽     麦黍稷     此六谷     人所食](dao_liang_shu_mai_shu_ji_ci_liu_gu_ren_suo_shi.md)
 * [马牛羊     鸡犬豕     此六畜     人所饲](ma_niu_yang_ji_quan_shi_ci_liu_chu_ren_suo_si.md)
 * [曰喜怒     曰哀惧     爱恶欲     七情俱](yue_xi_nu_yue_ai_ju_ai_e_yu_qi_qing_ju.md)
+* 青赤黄 	及黑白 	此五色 	目所识
 
