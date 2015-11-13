@@ -118,4 +118,5 @@
 * [蔡文姬     能辩琴     谢道韫     能咏吟](cai_wen_ji_neng_bian_qin_xie_dao_yun_neng_yong_yin.md)
 * [彼女子     且聪敏     尔男子     当自警](bi_nv_zi_qie_cong_min_er_nan_zi_dang_zi_jing.md)
 * [唐刘晏     方七岁     举神童     作正字](tang_liu_yan_fang_qi_sui_ju_shen_tong_zuo_zheng_zi.md)
+* 彼虽幼 	身已仕 	有为者 	亦若是
 
