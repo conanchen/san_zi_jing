@@ -93,4 +93,5 @@
 * [舆图广     超前代     九十年     国祚废](yu_tu_guang_chao_qian_dai_jiu_shi_nian_guo_zuo_fei.md)
 * [迨成祖     迁燕京     十六世     至崇祯](dai_cheng_zu_qian_yan_jing_shi_liu_shi_zhi_chong_zhen.md)
 * [权阉肆     寇如林     李闯出     神器焚](quan_yan_si_kou_ru_lin_li_chuang_chu_shen_qi_fen.md)
+* 清世祖 	膺景命 	靖四方 	克大定
 
