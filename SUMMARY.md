@@ -38,5 +38,5 @@
 * [膻焦香     及腥朽     此五臭     鼻所嗅](dan_jiao_xiang_ji_xing_xiu_ci_wu_chou_bi_suo_xiu.md)
 * [匏土革     木石金     与丝竹     乃八音](pao_tu_ge_mu_shi_jin_yu_si_zhu_nai_ba_yin.md)
 * [曰平上     曰去入     此四声     宜调协](yue_ping_shang_yue_qu_ru_ci_si_sheng_yi_diao_xie.md)
-* 高曾祖 	父而身 	身而子 	子而孙
+* [高曾祖     父而身     身而子     子而孙](gao_ceng_zu_fu_er_shen_shen_er_zi_zi_er_sun.md)
 
