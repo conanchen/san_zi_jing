@@ -49,5 +49,6 @@
 * [有古文     大小篆     隶草继     不可乱](you_gu_wen_da_xiao_zhuan_li_cao_ji_bu_ke_luan.md)
 * [若广学     惧其繁     但略说     能知原](ruo_guang_xue_ju_qi_fan_dan_lve_shuo_neng_zhi_yuan.md)
 * [凡训蒙     须讲究     详训诂     明句读](fan_xun_meng_xu_jiang_jiu_xiang_xun_gu_ming_ju_du.md)
-* [为学者 	必有初 	小学终 	至四书](wei_xue_zhe_bi_you_chu_xiao_xue_zhong_zhi_si_shu.md)
+* [为学者     必有初     小学终     至四书](wei_xue_zhe_bi_you_chu_xiao_xue_zhong_zhi_si_shu.md)
+* 论语者 	二十篇 	群弟子 	记善言
 
