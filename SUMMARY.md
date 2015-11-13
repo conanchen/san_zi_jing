@@ -32,4 +32,5 @@
 * [有虫鱼     有鸟兽     此动物     能飞走](you_chong_yu_you_niao_shou_ci_dong_wu_neng_fei_zou.md)
 * [稻梁菽     麦黍稷     此六谷     人所食](dao_liang_shu_mai_shu_ji_ci_liu_gu_ren_suo_shi.md)
 * [马牛羊     鸡犬豕     此六畜     人所饲](ma_niu_yang_ji_quan_shi_ci_liu_chu_ren_suo_si.md)
+* 曰喜怒 	曰哀惧 	爱恶欲 	七情俱
 
