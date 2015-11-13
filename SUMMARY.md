@@ -55,4 +55,5 @@
 * [作中庸     乃孔伋     中不偏     庸不易](zuo_zhong_yong_nai_kong_ji_zhong_bu_pian_yong_bu_yi.md)
 * [作大学     乃曾子     自修齐     至平治](zuo_da_xue_nai_ceng_zi_zi_xiu_qi_zhi_ping_zhi.md)
 * [中书熟     孝经通     如六经     始可读](zhong_shu_shu_xiao_jing_tong_ru_liu_jing_shi_ke_du.md)
+* 诗书易 	礼春秋 	号六经 	当讲求
 
