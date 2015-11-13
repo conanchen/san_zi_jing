@@ -123,5 +123,5 @@
 * [蚕吐丝     蜂酿蜜     人不学     不如物](can_tu_si_feng_niang_mi_ren_bu_xue_bu_ru_wu.md)
 * [幼习业     壮致身     上匡国     下利民](you_xi_ye_zhuang_zhi_shen_shang_kuang_guo_xia_li_min.md)
 * [扬名声     显父母     光于前     裕于后](yang_ming_sheng_xian_fu_mu_guang_yu_qian_yu_yu_hou.md)
-* 人遗子 	金满赢 	我教子 	唯一经
+* [人遗子     金满赢     我教子     唯一经](ren_yi_zi_jin_man_ying_wo_jiao_zi_wei_yi_jing.md)
 
