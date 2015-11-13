@@ -29,4 +29,5 @@
 * [曰士农     曰工商     此四民     国之良](yue_shi_nong_yue_gong_shang_ci_si_min_guo_zhi_liang.md)
 * [曰仁义     礼智信     此五常     不容紊](yue_ren_yi_li_zhi_xin_ci_wu_chang_bu_rong_wen.md)
 * [地所生     有草木     此植物     遍水陆](di_suo_sheng_you_cao_mu_ci_zhi_wu_bian_shui_lu.md)
+* 有虫鱼 	有鸟兽 	此动物 	能飞走
 
