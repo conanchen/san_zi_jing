@@ -71,4 +71,5 @@
 * [经子通     读诸史     考世系     知终始](jing_zi_tong_du_zhu_shi_kao_shi_xi_zhi_zhong_shi.md)
 * [自羲农     至黄帝     号三皇     在上世](zi_xi_nong_zhi_huang_di_hao_san_huang_zai_shang_shi.md)
 * [唐有虞     号二帝     相揖逊     称盛世](tang_you_yu_hao_er_di_xiang_yi_xun_cheng_sheng_shi.md)
+* 夏有禹 	商有汤 	周文武 	称三王
 
