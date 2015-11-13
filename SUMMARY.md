@@ -115,4 +115,5 @@
 * [彼既成     众称异     尔小生     宜立志](bi_ji_cheng_zhong_cheng_yi_er_xiao_sheng_yi_li_zhi.md)
 * [莹八岁     能咏诗     泌七岁     能赋棋](ying_ba_sui_neng_yong_shi_mi_qi_sui_neng_fu_qi.md)
 * [彼颖悟     人称奇     尔幼学     当效之](bi_ying_wu_ren_cheng_qi_er_you_xue_dang_xiao_zhi.md)
+* 蔡文姬 	能辩琴 	谢道韫 	能咏吟
 
