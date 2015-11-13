@@ -112,4 +112,5 @@
 * [苏老泉     二十七     始发愤     读书籍](su_lao_quan_er_shi_qi_shi_fa_fen_du_shu_ji.md)
 * [彼既老     犹悔迟     尔小生     宜早思](bi_ji_lao_you_hui_chi_er_xiao_sheng_yi_zao_si.md)
 * [若梁灏     八十二     对大廷     魁多士](ruo_liang_hao_ba_shi_er_dui_da_ting_kui_duo_shi.md)
+* 彼既成 	众称异 	尔小生 	宜立志
 
