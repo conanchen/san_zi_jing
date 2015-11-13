@@ -121,5 +121,5 @@
 * [彼虽幼     身已仕     有为者     亦若是](bi_sui_you_shen_yi_shi_you_wei_zhe_yi_ruo_shi.md)
 * [犬守夜     鸡司晨     苟不学     曷为人](quan_shou_ye_ji_si_chen_gou_bu_xue_he_wei_ren.md)
 * [蚕吐丝     蜂酿蜜     人不学     不如物](can_tu_si_feng_niang_mi_ren_bu_xue_bu_ru_wu.md)
-* 幼习业 	壮致身 	上匡国 	下利民
+* [幼习业     壮致身     上匡国     下利民](you_xi_ye_zhuang_zhi_shen_shang_kuang_guo_xia_li_min.md)
 
