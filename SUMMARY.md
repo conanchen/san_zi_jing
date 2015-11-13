@@ -53,4 +53,5 @@
 * [论语者     二十篇     群弟子     记善言](lun_yu_zhe_er_shi_pian_qun_di_zi_ji_shan_yan.md)
 * [孟子者     七篇止     讲道德     说仁义](meng_zi_zhe_qi_pian_zhi_jiang_dao_de_shuo_ren_yi.md)
 * [作中庸     乃孔伋     中不偏     庸不易](zuo_zhong_yong_nai_kong_ji_zhong_bu_pian_yong_bu_yi.md)
+* 作大学 	乃曾子 	自修齐 	至平治
 
