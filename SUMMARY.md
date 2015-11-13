@@ -113,4 +113,5 @@
 * [彼既老     犹悔迟     尔小生     宜早思](bi_ji_lao_you_hui_chi_er_xiao_sheng_yi_zao_si.md)
 * [若梁灏     八十二     对大廷     魁多士](ruo_liang_hao_ba_shi_er_dui_da_ting_kui_duo_shi.md)
 * [彼既成     众称异     尔小生     宜立志](bi_ji_cheng_zhong_cheng_yi_er_xiao_sheng_yi_li_zhi.md)
+* 莹八岁 	能咏诗 	泌七岁 	能赋棋
 
