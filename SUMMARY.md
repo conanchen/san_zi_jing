@@ -122,5 +122,5 @@
 * [犬守夜     鸡司晨     苟不学     曷为人](quan_shou_ye_ji_si_chen_gou_bu_xue_he_wei_ren.md)
 * [蚕吐丝     蜂酿蜜     人不学     不如物](can_tu_si_feng_niang_mi_ren_bu_xue_bu_ru_wu.md)
 * [幼习业     壮致身     上匡国     下利民](you_xi_ye_zhuang_zhi_shen_shang_kuang_guo_xia_li_min.md)
-* 扬名声 	显父母 	光于前 	裕于后
+* [扬名声     显父母     光于前     裕于后](yang_ming_sheng_xian_fu_mu_guang_yu_qian_yu_yu_hou.md)
 
