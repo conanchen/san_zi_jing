@@ -75,4 +75,5 @@
 * [夏传子     家天下     四百载     迁夏社](xia_chuan_zi_jia_tian_xia_si_bai_zai_qian_xia_she.md)
 * [汤伐夏     国号商     六百载     至纣亡](tang_fa_xia_guo_hao_shang_liu_bai_zai_zhi_zhou_wang.md)
 * [周武王     始诛纣     八百载     最长久](zhou_wu_wang_shi_zhu_zhou_ba_bai_zai_zui_chang_jiu.md)
+* 周共和 	始纪年 	历宣幽 	遂东迁
 
