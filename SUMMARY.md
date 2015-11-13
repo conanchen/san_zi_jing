@@ -86,4 +86,5 @@
 * [北元魏     分东西     宇文周     兴高齐](bei_yuan_wei_fen_dong_xi_yu_wen_zhou_xing_gao_qi.md)
 * [迨至隋     一土宇     不再传     失统绪](dai_zhi_sui_yi_tu_yu_bu_zai_chuan_shi_tong_xu.md)
 * [唐高祖     起义师     除隋乱     创国基](tang_gao_zu_qi_yi_shi_chu_sui_luan_chuang_guo_ji.md)
+* 二十传 	三百载 	梁灭之 	国乃改
 
