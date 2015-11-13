@@ -90,4 +90,5 @@
 * [梁唐晋     及汉周     称五代     皆有由](liang_tang_jin_ji_han_zhou_cheng_wu_dai_jie_you_you.md)
 * [赵宋兴     受周禅     十八传     南北混](zhao_song_xing_shou_zhou_shan_shi_ba_chuan_nan_bei_hun.md)
 * [辽与金     皆称帝     元灭金     绝宋世](liao_yu_jin_jie_cheng_di_yuan_mie_jin_jue_song_shi.md)
+* 舆图广 	超前代 	九十年 	国祚废
 
