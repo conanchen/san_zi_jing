@@ -28,5 +28,5 @@
 * [古九州     今改制     称行省     三十五](gu_jiu_zhou_jin_gai_zhi_cheng_xing_sheng_san_shi_wu.md)
 * [曰士农     曰工商     此四民     国之良](yue_shi_nong_yue_gong_shang_ci_si_min_guo_zhi_liang.md)
 * [曰仁义     礼智信     此五常     不容紊](yue_ren_yi_li_zhi_xin_ci_wu_chang_bu_rong_wen.md)
-* 地所生 	有草木 	此植物 	遍水陆
+* [地所生     有草木     此植物     遍水陆](di_suo_sheng_you_cao_mu_ci_zhi_wu_bian_shui_lu.md)
 
