@@ -46,4 +46,5 @@
 * [斩齐衰     大小功     至缌麻     五服终](zhan_qi_shuai_da_xiao_gong_zhi_si_ma_wu_fu_zhong.md)
 * [礼乐射     御书数     古六艺     今不具](li_le_she_yu_shu_shu_gu_liu_yi_jin_bu_ju.md)
 * [惟书学     人共遵     既识字     讲说文](wei_shu_xue_ren_gong_zun_ji_shi_zi_jiang_shuo_wen.md)
+* 有古文 	大小篆 	隶草继 	不可乱
 
