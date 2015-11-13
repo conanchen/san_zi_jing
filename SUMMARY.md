@@ -102,5 +102,5 @@
 * [史虽繁     读有次     史记一     汉书二](shi_sui_fan_du_you_ci_shi_ji_yi_han_shu_er.md)
 * [后汉三     国志四     兼证经     参通鉴](hou_han_san_guo_zhi_si_jian_zheng_jing_can_tong_jian.md)
 * [读史者     考实录     通古今     若亲目](du_shi_zhe_kao_shi_lu_tong_gu_jin_ruo_qin_mu.md)
-* 口而诵 	心而惟 	朝于斯 	夕于斯
+* [口而诵     心而惟     朝于斯     夕于斯](kou_er_song_xin_er_wei_zhao_yu_si_xi_yu_si.md)
 
