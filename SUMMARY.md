@@ -101,4 +101,5 @@
 * [古今史     全在兹     载治乱     知兴衰](gu_jin_shi_quan_zai_zi_zai_zhi_luan_zhi_xing_shuai.md)
 * [史虽繁     读有次     史记一     汉书二](shi_sui_fan_du_you_ci_shi_ji_yi_han_shu_er.md)
 * [后汉三     国志四     兼证经     参通鉴](hou_han_san_guo_zhi_si_jian_zheng_jing_can_tong_jian.md)
+* 读史者 	考实录 	通古今 	若亲目
 
