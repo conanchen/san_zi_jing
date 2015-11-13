@@ -74,4 +74,5 @@
 * [夏有禹     商有汤     周文武     称三王](xia_you_yu_shang_you_tang_zhou_wen_wu_cheng_san_wang.md)
 * [夏传子     家天下     四百载     迁夏社](xia_chuan_zi_jia_tian_xia_si_bai_zai_qian_xia_she.md)
 * [汤伐夏     国号商     六百载     至纣亡](tang_fa_xia_guo_hao_shang_liu_bai_zai_zhi_zhou_wang.md)
+* 周武王 	始诛纣 	八百载 	最长久
 
