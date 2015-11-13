@@ -109,5 +109,5 @@
 * [头悬梁     锥刺股     彼不教     自勤苦](tou_xuan_liang_zhui_ci_gu_bi_bu_jiao_zi_qin_ku.md)
 * [如囊萤     如映雪     家虽贫     学不辍](ru_nang_ying_ru_ying_xue_jia_sui_pin_xue_bu_chuo.md)
 * [如负薪     如挂角     身虽劳     犹苦卓](ru_fu_xin_ru_gua_jiao_shen_sui_lao_you_ku_zhuo.md)
-* 苏老泉 	二十七 	始发愤 	读书籍
+* [苏老泉     二十七     始发愤     读书籍](su_lao_quan_er_shi_qi_shi_fa_fen_du_shu_ji.md)
 
