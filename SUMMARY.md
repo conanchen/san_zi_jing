@@ -56,4 +56,5 @@
 * [作大学     乃曾子     自修齐     至平治](zuo_da_xue_nai_ceng_zi_zi_xiu_qi_zhi_ping_zhi.md)
 * [中书熟     孝经通     如六经     始可读](zhong_shu_shu_xiao_jing_tong_ru_liu_jing_shi_ke_du.md)
 * [诗书易     礼春秋     号六经     当讲求](shi_shu_yi_li_chun_qiu_hao_liu_jing_dang_jiang_qiu.md)
+* 有连山 	有归藏 	有周易 	三易详
 
