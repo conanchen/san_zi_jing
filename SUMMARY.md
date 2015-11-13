@@ -98,5 +98,5 @@
 * [道咸间     变乱起     始英法     扰都鄙](dao_xian_jian_bian_luan_qi_shi_ying_fa_rao_du_bi.md)
 * [同光后     宣统弱     传九帝     满清殁](tong_guang_hou_xuan_tong_ruo_chuan_jiu_di_man_qing_mo.md)
 * [革命兴     废帝制     立宪法     建民国](ge_ming_xing_fei_di_zhi_li_xian_fa_jian_min_guo.md)
-* 古今史 	全在兹 	载治乱 	知兴衰
+* [古今史     全在兹     载治乱     知兴衰](gu_jin_shi_quan_zai_zi_zai_zhi_luan_zhi_xing_shuai.md)
 
